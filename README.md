@@ -5,15 +5,7 @@
 
   <p align="center">
     A Python script to synchronize two folders one-way. 
-    <br />
-    <a href=""></a>
-    <br />
-    <br />
-    <a href=""></a>
-    ·
-    <a href=""></a>
-    ·
-</div>
+</p>
 
 <details>
   <summary>Table of Contents</summary>
