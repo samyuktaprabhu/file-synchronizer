@@ -37,7 +37,7 @@ Any file or folder changes with operations like creation, deletion, modification
 
 ### Built With
 
-* Python
+* Python (version >= 3.8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,6 +64,11 @@ To get a local copy up and running, follow the steps mentioned below.
 6. In the terminal, run the command in this format- 
  ```sh
  python3 synctask.py <your_source_file_path> <your_replica_file_path> <your_sync_interval> <your_log_file_path>
+   ```
+   
+   Example: 
+ ```sh
+ python3 synctask.py /Users/username/Desktop/file-synchronizer-master/source/ /Users/username/Desktop/file-synchronizer-master/replica/ 5 /Users/username/Desktop/file-synchronizer-master/output.txt
    ```
 7. Perform any of the operations mentioned in the description aboce to see the synchronization between the files / folders. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
