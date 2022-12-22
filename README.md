@@ -76,10 +76,15 @@ Python has been used to write this script.
 _For information, please refer to the [Documentation](https://docs.python.org/3/)_
 
 Following libraries have been used in the script.
+
 _For information on 'os', please refer to the [Documentation](https://docs.python.org/3/library/os.html)_
+
 _For information on 'shutil', please refer to the [Documentation](https://docs.python.org/3/library/shutil.html)_
+
 _For information on 'threading', please refer to the [Documentation](https://docs.python.org/3/library/threading.html)_
+
 _For information on 'sys', please refer to the [Documentation](https://docs.python.org/3/library/sys.html)_
+
 _For information on 'datetime', please refer to the [Documentation](https://docs.python.org/3/library/datetime.html)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
